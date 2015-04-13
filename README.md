@@ -1,6 +1,6 @@
 # Tablemate
 
-![Logo](https://raw.githubusercontent.com/jhermann/tablemate/master/static/img/logo-64.png)
+![Logo](https://raw.githubusercontent.com/jhermann/tablemate/master/docs/_static/img/logo-64.png)
 Prettify your tabular data using the shell or Python code.
 
  [![Travis CI](https://api.travis-ci.org/jhermann/tablemate.svg)](https://travis-ci.org/jhermann/tablemate)
