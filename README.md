@@ -59,7 +59,7 @@ To add bash completion, read the [Click docs](http://click.pocoo.org/4/bashcompl
 or just follow these instructions:
 
 ```sh
-cmdname=tablemate
+cmdname=tbm
 mkdir -p ~/.bash_completion.d
 _$(tr a-z- A-Z_ <<<"$cmdname")_COMPLETE=source $cmdname >~/.bash_completion.d/$cmdname.sh
 grep /.bash_completion.d/$cmdname.sh ~/.bash_completion >/dev/null \
