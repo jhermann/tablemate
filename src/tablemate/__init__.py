@@ -2,7 +2,19 @@
 # pylint: disable=bad-whitespace
 # flake8: noqa
 """
-    Tablemate – Prettify your tabular data, either on the command line or in Python code.
+    Prettify your tabular data, either on the command line or in Python code.
+
+    “Tablemate” is an easy-to-use Python package that takes tabular data
+    and pretty-prints it to the console, with Unicode or ASCII borders
+    and colors. There is a strict division between data and styling, and
+    the table layout takes account of the terminal geometry automatically.
+
+    Besides producing fancy terminal output, the data can also be converted
+    into the usual serialization formats, and markup languages like html,
+    reStructuredText and markdown.
+
+    With a static table layout, streaming is possible.
+
 
     Copyright ©  2015 Jürgen Hermann <jh@web.de>
 
