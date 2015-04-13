@@ -14,7 +14,36 @@ Prettify your tabular data, either on the command line or in Python code.
 
 ## Overview
 
-…
+### Introduction
+
+To get that out of the way… *Why another table prettifier library?*
+Well, I wanted one that fulfilled my requirements, was actively maintained,
+and fully tested plus Py2/3 portable.
+
+
+### Requirements (draft)
+
+**General**
+
+ * **Ease of use.**
+ * Strict division between data and style.
+ * Support for parsing data from common formats (via ``tablib`` and others).
+ * Serializing the data to a large choice of output formats (again mostly via ``tablib``).
+ * Output to markup languages (``.rst``, ``.md``, …).
+
+**API**
+ * Streaming (with fixed column widths, and wrapping or cuts).
+ * A `.lines()` generator.
+ * Fluent API? (`table().headers(…).repeat(24).…`)
+
+**Styling**
+ * Unicode borders, with a configurable fallback to ASCII only.
+ * Table titles (above column headers).
+ * Table footer with stats (sum, avg, …).
+ * Terminal colors (via ``colorama``).
+ * Auto-mode for terminal size.
+ * Compact style (no borders).
+ * Repeat column headers (use terminal rows as a default).
 
 
 ## Installation
@@ -61,6 +90,15 @@ invoke build --docs test check
 ```
 
 See [CONTRIBUTING](https://github.com/jhermann/tablemate/blob/master/CONTRIBUTING.md) for more.
+
+
+## Similar Projects
+
+ * [prettytable](https://code.google.com/p/prettytable/) – Represent tabular data in visually appealing ASCII tables.
+
+   * https://github.com/kxxoling/PrettyTable (in sync)
+   * https://github.com/adamlamers/prettytable (in sync, with a formatted README)
+   * https://github.com/dprince/python-prettytable (outdated fork)
 
 
 ## References
