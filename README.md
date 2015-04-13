@@ -1,6 +1,7 @@
-# tablemate
+# Tablemate
 
-Prettify your tabular data, either on the command line or in Python code.
+![Logo](https://raw.githubusercontent.com/jhermann/tablemate/master/static/img/logo-64.png)
+Prettify your tabular data using the shell or Python code.
 
  [![Travis CI](https://api.travis-ci.org/jhermann/tablemate.svg)](https://travis-ci.org/jhermann/tablemate)
  [![Coveralls](https://img.shields.io/coveralls/jhermann/tablemate.svg)](https://coveralls.io/r/jhermann/tablemate)
