@@ -1,16 +1,10 @@
 # Tablemate
 
-![Logo](https://raw.githubusercontent.com/jhermann/tablemate/master/docs/_static/img/logo-64.png)
-Prettify your tabular data using the shell or Python code.
-
- [![Travis CI](https://api.travis-ci.org/jhermann/tablemate.svg)](https://travis-ci.org/jhermann/tablemate)
- [![Coveralls](https://img.shields.io/coveralls/jhermann/tablemate.svg)](https://coveralls.io/r/jhermann/tablemate)
- [![GitHub Issues](https://img.shields.io/github/issues/jhermann/tablemate.svg)](https://github.com/jhermann/tablemate/issues)
- [![License](https://img.shields.io/pypi/l/tablemate.svg)](https://github.com/jhermann/tablemate/blob/master/LICENSE)
- [![Development Status](https://pypip.in/status/tablemate/badge.svg)](https://pypi.python.org/pypi/tablemate/)
- [![Latest Version](https://img.shields.io/pypi/v/tablemate.svg)](https://pypi.python.org/pypi/tablemate/)
- [![Download format](https://pypip.in/format/tablemate/badge.svg)](https://pypi.python.org/pypi/tablemate/)
- [![Downloads](https://img.shields.io/pypi/dw/tablemate.svg)](https://pypi.python.org/pypi/tablemate/)
+![Logo](https://raw.githubusercontent.com/jhermann/tablemate/master/docs/_static/img/logo-64.png) | Prettify your tabular data using the shell or Python code.
+:----: | :----
+**Project** |  [![License](https://img.shields.io/pypi/l/tablemate.svg)](https://github.com/jhermann/tablemate/blob/master/LICENSE) [![Development Status](https://pypip.in/status/tablemate/badge.svg)](https://pypi.python.org/pypi/tablemate/)
+**QA** |  [![Travis CI](https://api.travis-ci.org/jhermann/tablemate.svg)](https://travis-ci.org/jhermann/tablemate) [![Coveralls](https://img.shields.io/coveralls/jhermann/tablemate.svg)](https://coveralls.io/r/jhermann/tablemate) [![GitHub Issues](https://img.shields.io/github/issues/jhermann/tablemate.svg)](https://github.com/jhermann/tablemate/issues)
+**Release** |  [![Latest Version](https://img.shields.io/pypi/v/tablemate.svg)](https://pypi.python.org/pypi/tablemate/) [![Download format](https://pypip.in/format/tablemate/badge.svg)](https://pypi.python.org/pypi/tablemate/) [![Downloads](https://img.shields.io/pypi/dw/tablemate.svg)](https://pypi.python.org/pypi/tablemate/)
 
 
 ## Overview
