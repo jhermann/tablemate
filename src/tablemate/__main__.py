@@ -25,7 +25,7 @@ from . import config
 
 
 # Default name of the app, and its app directory
-__app_name__ = 'tablemate'
+__app_name__ = 'tbm'
 config.APP_NAME = __app_name__
 
 # The `click` custom context settings
