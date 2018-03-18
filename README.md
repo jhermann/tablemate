@@ -4,7 +4,7 @@
 :----: | :----
 **Project** |  [![License](https://img.shields.io/pypi/l/tablemate.svg)](https://github.com/jhermann/tablemate/blob/master/LICENSE) [![Development Status](https://img.shields.io/pypi/status/tablemate.svg)](https://pypi.python.org/pypi/tablemate/)
 **QA** |  [![Travis CI](https://api.travis-ci.org/jhermann/tablemate.svg)](https://travis-ci.org/jhermann/tablemate) [![Coveralls](https://img.shields.io/coveralls/jhermann/tablemate.svg)](https://coveralls.io/r/jhermann/tablemate) [![GitHub Issues](https://img.shields.io/github/issues/jhermann/tablemate.svg)](https://github.com/jhermann/tablemate/issues)
-**Release** |  [![Latest Version](https://img.shields.io/pypi/v/tablemate.svg)](https://pypi.python.org/pypi/tablemate/) [![Download format](https://img.shields.io/pypi/format/tablemate.svg)](https://pypi.python.org/pypi/tablemate/) [![Downloads](https://img.shields.io/pypi/dw/tablemate.svg)](https://pypi.python.org/pypi/tablemate/)
+**Release** |  [![Latest Version](https://img.shields.io/pypi/v/tablemate.svg)](https://pypi.python.org/pypi/tablemate/) [![Download format](https://img.shields.io/pypi/format/tablemate.svg)](https://pypi.python.org/pypi/tablemate/)
 
 
 ## Overview
